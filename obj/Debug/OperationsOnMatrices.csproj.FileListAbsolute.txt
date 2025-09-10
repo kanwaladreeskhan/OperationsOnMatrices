@@ -1,0 +1,7 @@
+C:\Users\FC Technologies\Documents\Visual Studio 2022\OperationsOnMatrices\OperationsOnMatrices\obj\Debug\OperationsOnMatrices.csproj.AssemblyReference.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\OperationsOnMatrices\OperationsOnMatrices\obj\Debug\OperationsOnMatrices.csproj.CoreCompileInputs.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\OperationsOnMatrices\OperationsOnMatrices\bin\Debug\OperationsOnMatrices.exe.config
+C:\Users\FC Technologies\Documents\Visual Studio 2022\OperationsOnMatrices\OperationsOnMatrices\bin\Debug\OperationsOnMatrices.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\OperationsOnMatrices\OperationsOnMatrices\bin\Debug\OperationsOnMatrices.pdb
+C:\Users\FC Technologies\Documents\Visual Studio 2022\OperationsOnMatrices\OperationsOnMatrices\obj\Debug\OperationsOnMatrices.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\OperationsOnMatrices\OperationsOnMatrices\obj\Debug\OperationsOnMatrices.pdb
